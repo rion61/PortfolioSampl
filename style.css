@@ -242,4 +242,12 @@ body{
        .works-list span {
            font-size: 14px;
        }
-  }
+       /* [footer]のスタイルシート */
+
+       .block-footer p {
+        clear: both;
+        text-align: center;
+        font-size: 15px;
+        margin: 50px 0 20px;
+    }
+}
