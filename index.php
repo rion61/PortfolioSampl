@@ -1,3 +1,3 @@
 <?php
-include_once('indx.html');
+include_once('index.html');
 ?>
